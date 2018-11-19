@@ -14,9 +14,8 @@ Summary: A set of predicates and assertions for checking the properties of US-sp
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-assertive.data.us-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-assertive.data.us-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/r-assertive.data.us-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-assertive.data.us-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-assertive.data.us-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-assertive-data-us-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/r-assertive.data.us-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/r-assertive.data.us-feedstock)
 
 Current release info
 ====================
