@@ -39,13 +39,14 @@ test:
 
 about:
   home: https://bitbucket.org/richierocks/assertive.data.us
-  license: GPL (>= 3)
+  license: GPL-3.0-or-later
   summary: A set of predicates and assertions for checking the properties of US-specific complex
     data types.  This is mainly for use by other package developers who want to include
     run-time testing features in their own packages.  End-users will usually want to
     use assertive directly.
   license_family: GPL3
-  license_file: '{{ environ["PREFIX"] }}/lib/R/share/licenses/GPL-3'
+  license_file:
+    - {{ environ["PREFIX"] }}/lib/R/share/licenses/GPL-3
 
 extra:
   recipe-maintainers:
