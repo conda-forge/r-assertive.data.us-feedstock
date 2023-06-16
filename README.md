@@ -1,11 +1,11 @@
-About r-assertive.data.us
-=========================
+About r-assertive.data.us-feedstock
+===================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-assertive.data.us-feedstock/blob/main/LICENSE.txt)
 
 Home: https://bitbucket.org/richierocks/assertive.data.us
 
 Package license: GPL-3.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-assertive.data.us-feedstock/blob/main/LICENSE.txt)
 
 Summary: A set of predicates and assertions for checking the properties of US-specific complex data types.  This is mainly for use by other package developers who want to include run-time testing features in their own packages.  End-users will usually want to use assertive directly.
 
